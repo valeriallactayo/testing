@@ -1,5 +1,5 @@
 # **Testing**
-> Hola, este es mi primer repo en GitHub <3 y esta es mi lista de aprendizade:
+> Hola, este es mi primer repo en GitHub y esta es mi lista de aprendizaje:
 
 1. Aprender R
 2. Aprender python
@@ -18,7 +18,7 @@ Nombre | Apellidos | Código
 Valeria | Llactayo Peña | 17160046
 Hugo | Senozaín Capcha | 16160182
 
-[DRIVE <3](https://drive.google.com/drive/u/0/folders/1siAmgle6K-GF2G_TB5oa53CBNwDU9QGV)
+[Slides](https://docs.google.com/presentation/d/1LVrVls0J6J2apY0lhAalr1orsgXVEbqO2n8_5I8o2t0/edit#slide=id.p)
 
 
 
